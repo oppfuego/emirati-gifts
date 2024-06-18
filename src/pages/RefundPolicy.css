@@ -1,0 +1,640 @@
+.please-refer-to1,
+.refund-policy1 {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.refund-policy1 {
+  line-height: 110%;
+  font-weight: 700;
+}
+.please-refer-to1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+}
+.content {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+.wishdeck-we-us {
+  width: 1680px;
+  height: 44px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+  display: inline-block;
+  max-width: 100%;
+}
+.eligibility-for-refunds {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.eligibility-for-refunds-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.the-product-or,
+.you-have-canceled {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.eligibility,
+.eligibility-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eligibility-list {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.eligibility {
+  width: 1680px;
+  gap: 32px;
+  max-width: 100%;
+}
+.non-refundable-items-and-servi {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.non-refundable-items-and-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.certain-items-or {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.non-refundable-items-and-servi-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.exceptions-and-special-circums {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.exceptions-and-special-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.exceptions-to-this {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.exceptions-and-special-circums-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-us3 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.contact-us2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.blank-line1,
+.by-using-our1,
+.if-you-have1 {
+  margin: 0;
+}
+.if-you-have-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.contact-us-parent,
+.wishdeck-we-us-or-our-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-parent {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 32px;
+}
+.wishdeck-we-us-or-our-parent {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+.join-700k-customers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.join-the-thousand {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  white-space: pre-wrap;
+}
+.join-us {
+  width: 665px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+  max-width: 100%;
+}
+.button {
+  align-self: stretch;
+  height: 46px;
+}
+.button-container,
+.footer-columns {
+  display: flex;
+  align-items: flex-start;
+}
+.button-container {
+  width: 166px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 39px 0 0;
+  box-sizing: border-box;
+}
+.footer-columns {
+  width: 1680px;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 100%;
+  flex-shrink: 0;
+  gap: 20px;
+}
+.footer-divider,
+.footer-top {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-divider {
+  width: 1681px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+  flex-shrink: 0;
+}
+.footer-top {
+  align-self: stretch;
+  height: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px 70px;
+  gap: 70px;
+  font-size: 32px;
+}
+.mask-group-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts {
+  width: 108px;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: none;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 18px;
+  color: #000;
+}
+.emiratigifts-is-a {
+  align-self: stretch;
+}
+.emiratigifts-is-a,
+.live-chat-support {
+  position: relative;
+  line-height: 135%;
+}
+.helpemiratigiftscom-support {
+  font-weight: 700;
+}
+.adminemiratigiftscom-other,
+.helpemiratigiftscom-support {
+  position: relative;
+  line-height: 135%;
+}
+.company-info,
+.helpemiratigiftscom-support-parent,
+.support {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.company-info,
+.support {
+  gap: 32px;
+  max-width: 100%;
+}
+.company-info {
+  width: 404px;
+  gap: 48px;
+}
+.product {
+  font-weight: 700;
+}
+.airtime-to-cash,
+.binance-wallet,
+.buy-airtime,
+.crypto-markets,
+.dogecoin-wallet,
+.ethereum-wallet,
+.litecoin-wallet,
+.product,
+.sell-bitcoin-in,
+.sell-bitcoin-in1,
+.tether-usdt-wallet,
+.tron-wallet {
+  position: relative;
+  line-height: 135%;
+}
+.product-list,
+.products {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.products {
+  gap: 24px;
+}
+.resources {
+  font-weight: 700;
+}
+.all-pages,
+.blog,
+.career,
+.check-gift-card,
+.contact-us4,
+.developers,
+.gift-card-rates,
+.highest-gift-card,
+.how-to-sell,
+.privacy-policy,
+.promo-codes,
+.resources,
+.support-us,
+.terms-of-use {
+  position: relative;
+  line-height: 135%;
+}
+.resource-list,
+.resources-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.resources-parent {
+  gap: 24px;
+}
+.gift-cards1 {
+  font-weight: 700;
+}
+.amazon-gift-cards,
+.amex-gift-cards,
+.apple-gift-cards,
+.buy-gift-cards,
+.ebay-gift-cards,
+.gift-card-to,
+.gift-card-to1,
+.gift-card-to2,
+.gift-cards1,
+.google-play-gift,
+.nike-gift-cards,
+.nordstorm-gift-cards,
+.razer-gold-gift,
+.sell-gift-card,
+.sell-gift-card1,
+.sephora-gift-cards,
+.steam-gift-cards,
+.xbox-gift-cards {
+  position: relative;
+  line-height: 135%;
+}
+.footer-bottom,
+.gift-card-list,
+.gift-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.footer-bottom,
+.gift-cards {
+  gap: 24px;
+}
+.footer-bottom {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.footer-bottom,
+.footer-inner,
+.frame-child {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child {
+  width: 1681px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+}
+.footer-inner {
+  height: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.giftsite-all-rights1 {
+  position: relative;
+  line-height: 135%;
+  font-weight: 600;
+}
+.copyright1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.blogger-icon1,
+.dash-dash-icon1,
+.facebook-icon1,
+.instagram-icon1,
+.paypal-icon1,
+.youtube1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.youtube1 {
+  margin: 0;
+}
+.copyright-social1,
+.social-links-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.copyright-social1 {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.footer1,
+.refund-policy {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  padding: 64px 0;
+  box-sizing: border-box;
+  gap: 63.7px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+.refund-policy {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .wishdeck-we-us-or-our-parent {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .footer-bottom {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .footer-columns {
+    flex-wrap: wrap;
+  }
+  .footer-top {
+    height: auto;
+  }
+  .copyright-social1,
+  .footer-bottom {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+  .copyright-social1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer1 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .refund-policy1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .eligibility-for-refunds-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .eligibility {
+    gap: 16px;
+  }
+  .non-refundable-items-and-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .non-refundable-items-and-servi-parent {
+    gap: 16px;
+  }
+  .exceptions-and-special-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .exceptions-and-special-circums-parent {
+    gap: 16px;
+  }
+  .contact-us2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-us-parent {
+    gap: 16px;
+  }
+  .wishdeck-we-us-or-our-parent {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .join-700k-customers {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .join-us {
+    gap: 21px;
+  }
+  .footer-top {
+    gap: 35px;
+  }
+  .copyright-social1,
+  .footer-bottom {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .footer1 {
+    gap: 16px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refund-policy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .contact-us2,
+  .eligibility-for-refunds-container,
+  .exceptions-and-special-container,
+  .non-refundable-items-and-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .wishdeck-we-us-or-our-parent {
+    gap: 16px;
+  }
+  .join-700k-customers {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer-top {
+    gap: 17px;
+  }
+  .support {
+    gap: 16px;
+  }
+  .company-info {
+    gap: 24px;
+  }
+}

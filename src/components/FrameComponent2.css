@@ -1,0 +1,109 @@
+.image-7-icon {
+  align-self: stretch;
+  height: 240px;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.best-buy {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.best-buy-is {
+  align-self: stretch;
+  height: 66px;
+  display: inline-block;
+}
+.best-buy-is,
+.from-20-to2 {
+  position: relative;
+  line-height: 135%;
+}
+.electronics-content,
+.electronics-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.electronics-content {
+  gap: 10px;
+  font-size: 16px;
+}
+.electronics-description {
+  gap: 32px;
+}
+.buy2 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Rubik;
+  color: #1c1c1c;
+  text-align: left;
+}
+.electronics-actions {
+  cursor: pointer;
+  border: 1.5px solid #000;
+  padding: 10px 22px;
+  background-color: transparent;
+  width: 78px;
+  border-radius: 100px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.electronics-actions:hover {
+  background-color: rgba(51, 51, 51, 0.09);
+  border: 1.5px solid #333;
+  box-sizing: border-box;
+}
+.electronics-description-parent,
+.image-7-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.electronics-description-parent {
+  align-self: stretch;
+  gap: 36px;
+}
+.image-7-parent {
+  width: 402px;
+  gap: 32px;
+  min-width: 382px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 900px) {
+  .best-buy {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .best-buy {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .electronics-description {
+    gap: 16px;
+  }
+  .electronics-description-parent {
+    gap: 18px;
+  }
+  .image-7-parent {
+    gap: 16px;
+    min-width: 100%;
+  }
+}

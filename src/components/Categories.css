@@ -1,0 +1,172 @@
+.browse-by-categories {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.svg-image7-1-icon {
+  height: 240px;
+  width: 240px;
+  position: relative;
+  object-fit: cover;
+}
+.svg-image7-1-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.fashion-beauty {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.clothing-footwear-accessorie {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -22px;
+  left: 0;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+}
+.category-grid,
+.category-row1,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 8px 68px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 64px;
+}
+.category-grid,
+.category-row1 {
+  flex-direction: row;
+}
+.category-row1 {
+  width: 544px;
+  margin: 0 !important;
+  position: absolute;
+  top: 624px;
+  left: 1136px;
+  border-radius: 25px;
+  background-color: #f1e8e2;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 95px 56px;
+  box-sizing: border-box;
+}
+.category-grid {
+  align-self: stretch;
+  height: 1224px;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 24px 22px;
+  font-size: 32px;
+}
+.button7 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Rubik;
+  color: #fff;
+  text-align: left;
+}
+.browse-button,
+.button6,
+.categories {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button6 {
+  cursor: pointer;
+  border: 0.5px solid #000;
+  padding: 11px 23px;
+  background-color: #000;
+  width: 97px;
+  border-radius: 100px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button6:hover {
+  background-color: #333;
+  border: 0.5px solid #333;
+  box-sizing: border-box;
+}
+.browse-button,
+.categories {
+  align-self: stretch;
+  justify-content: center;
+}
+.categories {
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 120px;
+  box-sizing: border-box;
+  gap: 64px;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1325px) {
+  .categories {
+    gap: 32px;
+    padding: 52px 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .browse-by-categories {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .fashion-beauty {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .categories {
+    gap: 16px;
+    padding: 34px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .browse-by-categories {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .fashion-beauty {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .categories {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,151 @@
+.item-divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #b6b6b6;
+  box-sizing: border-box;
+}
+.image-icon {
+  height: 100px;
+  width: 180px;
+  position: relative;
+  border-radius: 20px;
+  object-fit: cover;
+}
+.amazon-gift-card,
+.worth-usd-400 {
+  width: 179px;
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+}
+.product-name-price {
+  width: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.credit-label {
+  white-space: nowrap;
+}
+.credit-label,
+.credits {
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.credit-count {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-plus {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.increase-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.button-divider {
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.decrease-button {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.quantity-buttons {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px;
+  gap: 26.5px;
+}
+.time-quantity {
+  align-self: stretch;
+  height: 38px;
+  font-family: Archivo;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+.credits-action,
+.quantity-adjust {
+  display: flex;
+  align-items: flex-start;
+}
+.quantity-adjust {
+  width: 115px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.credits-action {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 90px 0 0;
+  box-sizing: border-box;
+  min-width: 203px;
+  max-width: 100%;
+  gap: 20px;
+}
+.item-end {
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.image-price,
+.product-info {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-price {
+  width: 899px;
+  flex-direction: row;
+  gap: 15px;
+}
+.product-info {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Archivo;
+}
+@media screen and (max-width: 750px) {
+  .image-price {
+    flex-wrap: wrap;
+  }
+  .product-info {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .credits-action {
+    flex-wrap: wrap;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,593 @@
+.mask-group-icon1 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts1 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.logo1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 156px 0 0;
+  box-sizing: border-box;
+  gap: 12px;
+  max-width: 100%;
+}
+.business {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  font-weight: 700;
+  color: inherit;
+}
+.contact-us1,
+.gift-cards1 {
+  white-space: nowrap;
+}
+.contact-us1,
+.gift-cards1,
+.legal {
+  text-decoration: none;
+  position: relative;
+  line-height: 22px;
+  font-weight: 700;
+  color: inherit;
+}
+.top-navigation {
+  width: 395px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #1c1c1c;
+}
+.facebook {
+  text-decoration: none;
+  width: 58px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+.instagram {
+  width: 62px;
+  display: inline-block;
+}
+.instagram,
+.tiktok {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+}
+.social-media-icons {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: left;
+  font-size: 12px;
+  color: #000;
+  font-family: Rubik;
+}
+.heart-icon,
+.search-normal-icon,
+.shopping-bag-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.search-cart-wishlist {
+  width: 168px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header,
+.social-icons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+}
+.social-icons-container {
+  width: 423px;
+  justify-content: center;
+  gap: 48px;
+}
+.header {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  justify-content: space-between;
+  padding: 15px 120px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: 20px;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Rubik;
+}
+.content1,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-group {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.content1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+}
+.join-700k-customers1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.join-the-thousand1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  white-space: pre-wrap;
+}
+.subscription {
+  width: 665px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+  max-width: 100%;
+}
+.button3 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Rubik;
+  color: #fff;
+  text-align: left;
+}
+.button2,
+.subscribe-button-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button2 {
+  cursor: pointer;
+  border: 0.5px solid #000;
+  padding: 11px 23px;
+  background-color: #000;
+  border-radius: 100px;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.button2:hover {
+  background-color: #333;
+  border: 0.5px solid #333;
+  box-sizing: border-box;
+}
+.subscribe-button-container {
+  flex-direction: column;
+  padding: 39px 0 0;
+}
+.top-footer1 {
+  width: 1680px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  flex-shrink: 0;
+  gap: 20px;
+}
+.footer-content1,
+.footer-divider1 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-divider1 {
+  width: 1681px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+  flex-shrink: 0;
+}
+.footer-content1 {
+  align-self: stretch;
+  height: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px 70px;
+  gap: 70px;
+  font-size: 32px;
+}
+.mask-group-icon2 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts2 {
+  width: 111px;
+  position: relative;
+  line-height: 120%;
+  display: none;
+}
+.logo2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 18px;
+  color: #000;
+}
+.emiratigifts-is-a1 {
+  align-self: stretch;
+}
+.emiratigifts-is-a1,
+.live-chat-support1 {
+  position: relative;
+  line-height: 135%;
+}
+.helpemiratigiftscom-support1 {
+  font-weight: 700;
+}
+.adminemiratigiftscom-other1,
+.helpemiratigiftscom-support1 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-information,
+.helpemiratigiftscom-support-group,
+.support-info1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.footer-information,
+.support-info1 {
+  gap: 32px;
+  max-width: 100%;
+}
+.footer-information {
+  width: 404px;
+  gap: 48px;
+}
+.product1 {
+  font-weight: 700;
+}
+.airtime-to-cash1,
+.binance-wallet1,
+.buy-airtime1,
+.crypto-markets1,
+.dogecoin-wallet1,
+.ethereum-wallet1,
+.litecoin-wallet1,
+.product1,
+.sell-bitcoin-in2,
+.sell-bitcoin-in3,
+.tether-usdt-wallet1,
+.tron-wallet1 {
+  position: relative;
+  line-height: 135%;
+}
+.product-links1,
+.product-links2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.product-links1 {
+  gap: 24px;
+}
+.resources1 {
+  font-weight: 700;
+}
+.all-pages1,
+.blog1,
+.career1,
+.check-gift-card1,
+.contact-us2,
+.developers1,
+.gift-card-rates1,
+.highest-gift-card1,
+.how-to-sell1,
+.privacy-policy1,
+.promo-codes1,
+.resources1,
+.support-us1,
+.terms-of-use1 {
+  position: relative;
+  line-height: 135%;
+}
+.resource-options,
+.resources-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.resources-links {
+  gap: 24px;
+}
+.gift-cards2 {
+  font-weight: 700;
+}
+.amazon-gift-cards1,
+.amex-gift-cards1,
+.apple-gift-cards1,
+.buy-gift-cards1,
+.ebay-gift-cards1,
+.gift-card-to3,
+.gift-card-to4,
+.gift-card-to5,
+.gift-cards2,
+.google-play-gift1,
+.nike-gift-cards1,
+.nordstorm-gift-cards1,
+.razer-gold-gift1,
+.sell-gift-card2,
+.sell-gift-card3,
+.sephora-gift-cards1,
+.steam-gift-cards1,
+.xbox-gift-cards1 {
+  position: relative;
+  line-height: 135%;
+}
+.bottom-footer1,
+.gift-card-options,
+.gift-cards-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.bottom-footer1,
+.gift-cards-links {
+  gap: 24px;
+}
+.bottom-footer1 {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.bottom-footer1,
+.footer-inner,
+.frame-child {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child {
+  width: 1681px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+}
+.footer-inner {
+  height: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.giftsite-all-rights1 {
+  position: relative;
+  line-height: 135%;
+}
+.copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.blogger-icon1,
+.dash-dash-icon1,
+.facebook-icon1,
+.instagram-icon1,
+.paypal-icon1,
+.youtube1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.youtube1 {
+  margin: 0;
+}
+.copyright-social,
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.copyright-social {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.footer1,
+.pdp-1920x {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  overflow: hidden;
+  padding: 64px 0;
+  box-sizing: border-box;
+  gap: 63.7px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+.pdp-1920x {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .content1,
+  .header {
+    box-sizing: border-box;
+  }
+  .header {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .content1 {
+    padding-bottom: 34px;
+  }
+  .bottom-footer1 {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .top-navigation {
+    display: none;
+  }
+  .top-footer1 {
+    flex-wrap: wrap;
+  }
+  .footer-content1 {
+    height: auto;
+  }
+  .bottom-footer1,
+  .copyright-social {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+  .footer1 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .social-media-icons {
+    display: none;
+  }
+  .social-icons-container {
+    width: 216px;
+  }
+  .header {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    gap: 24px;
+  }
+  .content1 {
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+  .join-700k-customers1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .subscription {
+    gap: 21px;
+  }
+  .footer-content1 {
+    gap: 35px;
+  }
+  .bottom-footer1,
+  .copyright-social {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .copyright-social {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer1 {
+    gap: 16px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .logo1 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .social-icons-container,
+  .top-navigation {
+    gap: 24px;
+  }
+  .join-700k-customers1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer-content1 {
+    gap: 17px;
+  }
+  .support-info1 {
+    gap: 16px;
+  }
+  .footer-information {
+    gap: 24px;
+  }
+}

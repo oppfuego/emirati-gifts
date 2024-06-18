@@ -1,0 +1,249 @@
+.form-label {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.search-input {
+  width: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.form-field {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #ebebeb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 7px 12px 7px 10px;
+  gap: 20px;
+}
+.input-divider,
+.select-category {
+  align-self: stretch;
+  position: relative;
+}
+.input-divider {
+  height: 1px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+}
+.select-category {
+  line-height: 135%;
+}
+.dropdown-label {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  min-width: 214px;
+  max-width: 100%;
+}
+.arrow-drop-up-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.category-dropdown {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.most-popular1 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels {
+  align-self: stretch;
+  background-color: #d3d3d3;
+  border-left: 5px solid #444;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 21px;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.single-brands {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hypermarkets {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.online-shopping {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.fashion-and-accessories {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.electronics {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.category-labels5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.tag-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button17 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Rubik;
+  color: #050505;
+  text-align: center;
+}
+.tag-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button16 {
+  cursor: pointer;
+  border: 1px solid #000;
+  padding: 14px 20px;
+  background-color: transparent;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+}
+.categories1,
+.form-field-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.categories1 {
+  align-self: stretch;
+}
+.form-field-parent {
+  width: 402px;
+  gap: 23.5px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Rubik;
+}
+@media screen and (max-width: 450px) {
+  .category-dropdown {
+    flex-wrap: wrap;
+  }
+  .category-labels,
+  .category-labels1,
+  .category-labels2,
+  .category-labels3,
+  .category-labels4,
+  .category-labels5 {
+    gap: 116px;
+  }
+}

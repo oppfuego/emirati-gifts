@@ -1,0 +1,321 @@
+.refund-eligibility1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.refund-eligibility {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.cancellations-made-after1,
+.if-cancellation-is,
+.refunds-will-be {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.refund,
+.refund-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.refund-details {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.refund {
+  width: 1680px;
+  gap: 32px;
+  max-width: 100%;
+}
+.cancellation-process1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.cancellation-process {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.to-cancel-your {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.cancellation-process-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.refund-processing-time {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.refund-processing-time-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.refunds-for-eligible {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.refund-processing-time-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.exceptions-and-special-circums1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.exceptions-and-special-container1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.certain-services-or {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.exceptions-and-special-circums-group {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.changes-to-bookings {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.changes-to-bookings-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.you-have-the1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.changes-to-bookings-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.policy-updates1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.policy-updates {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.this-cancellation-and {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.policy-updates-parent {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-us11 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.contact-us10,
+.if-you-have2 {
+  align-self: stretch;
+  position: relative;
+}
+.contact-us10 {
+  line-height: 120%;
+  font-weight: 700;
+}
+.if-you-have2 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+  color: #454545;
+}
+.cancellation-content,
+.contact-us-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-group {
+  width: 1680px;
+  align-items: flex-start;
+  gap: 32px;
+}
+.cancellation-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1225px) {
+  .cancellation-content {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cancellation-content {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .refund-eligibility {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .refund {
+    gap: 16px;
+  }
+  .cancellation-process {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .cancellation-process-parent {
+    gap: 16px;
+  }
+  .refund-processing-time-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .refund-processing-time-parent {
+    gap: 16px;
+  }
+  .exceptions-and-special-container1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .exceptions-and-special-circums-group {
+    gap: 16px;
+  }
+  .changes-to-bookings-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .changes-to-bookings-parent {
+    gap: 16px;
+  }
+  .policy-updates {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .policy-updates-parent {
+    gap: 16px;
+  }
+  .contact-us10 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-us-group {
+    gap: 16px;
+  }
+  .cancellation-content {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellation-process,
+  .changes-to-bookings-container,
+  .contact-us10,
+  .exceptions-and-special-container1,
+  .policy-updates,
+  .refund-eligibility,
+  .refund-processing-time-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .cancellation-content {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}

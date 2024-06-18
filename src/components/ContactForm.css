@@ -1,0 +1,231 @@
+.contact-information {
+  position: relative;
+  line-height: 135%;
+}
+.form-field {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Work Sans";
+  font-size: 16px;
+  color: #000;
+}
+.contact-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.payment-information {
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: Rubik;
+  flex-shrink: 0;
+}
+.card-information,
+.card-number-placeholder {
+  position: relative;
+  line-height: 135%;
+}
+.card-logos-icon,
+.card-logos-icon1,
+.card-logos-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.card-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.form-field1 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #b6b6b6;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #d9d9d9;
+}
+.form-field2,
+.form-field3 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: "Work Sans";
+  font-size: 16px;
+  color: #d9d9d9;
+  min-width: 131px;
+}
+.card-details,
+.expiry-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.card-details {
+  flex-direction: column;
+}
+.carholder-name {
+  position: relative;
+  line-height: 135%;
+}
+.form-field4 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: "Work Sans";
+  font-size: 16px;
+  color: #d9d9d9;
+}
+.contact-details1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.country-or-region,
+.usa {
+  position: relative;
+  line-height: 135%;
+}
+.dropdown-icon,
+.icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.icon1 {
+  display: none;
+}
+.form-field5,
+.region {
+  align-self: stretch;
+  display: flex;
+}
+.form-field5 {
+  border-radius: 4px;
+  border: 1px solid #b6b6b6;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #d9d9d9;
+}
+.region {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.checkbox {
+  margin: 0;
+  height: 21px;
+  width: 21px;
+  border-radius: 4px;
+  border: 1px solid #b6b6b6;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.i-verified-that {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 253px;
+  max-width: 100%;
+}
+.compatibility {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.agreement-icon {
+  width: 324.5px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.i-verified-that1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.button4 {
+  align-self: stretch;
+  height: 54px;
+}
+.contact-form {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: "Work Sans";
+}
+@media screen and (max-width: 450px) {
+  .payment-information {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .compatibility,
+  .expiry-date,
+  .form-field1 {
+    flex-wrap: wrap;
+  }
+  .button4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

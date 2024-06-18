@@ -1,0 +1,114 @@
+.how-we-use-your-information {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.how-we-use-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.providing-services {
+  align-self: stretch;
+}
+.providing-services,
+.we-use-your {
+  position: relative;
+  line-height: 135%;
+}
+.usage-type-names {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.communication,
+.usage-type-names {
+  align-self: stretch;
+}
+.communication,
+.we-may-use1 {
+  position: relative;
+  line-height: 135%;
+}
+.usage-type-names1 {
+  width: 1100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.analytics {
+  align-self: stretch;
+}
+.analytics,
+.we-use-analytics {
+  position: relative;
+  line-height: 135%;
+}
+.usage-type-names2 {
+  width: 1090px;
+  gap: 16px;
+}
+.usage,
+.usage-type-names2,
+.usage-types {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.usage-types {
+  align-self: stretch;
+  padding: 0 564px 0 0;
+  box-sizing: border-box;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.usage {
+  width: 1680px;
+  gap: 32px;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1225px) {
+  .usage-types {
+    padding-right: 282px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .how-we-use-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .usage-types {
+    padding-right: 141px;
+    box-sizing: border-box;
+  }
+  .usage {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-we-use-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .usage-types {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

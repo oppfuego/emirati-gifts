@@ -1,0 +1,52 @@
+.similar-cards {
+  position: relative;
+  line-height: 110%;
+  font-weight: 700;
+}
+.similar-product-cards,
+.similar-products {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.similar-product-cards {
+  display: grid;
+  flex-direction: row;
+  gap: 24px;
+  grid-template-columns: repeat(4, minmax(301px, 1fr));
+  font-size: 32px;
+}
+.similar-products {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1400px) {
+  .similar-product-cards {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(301px, 523px));
+  }
+}
+@media screen and (max-width: 825px) {
+  .similar-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .similar-product-cards {
+    grid-template-columns: minmax(301px, 1fr);
+  }
+  .similar-products {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .similar-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

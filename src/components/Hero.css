@@ -1,0 +1,228 @@
+.the-perfect-gift {
+  margin: 0;
+  align-self: stretch;
+  height: 264px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.the-all-in-one-gift {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.hero-content {
+  width: 774px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 774px;
+  max-width: 100%;
+}
+.image-15-icon {
+  width: 850px;
+  height: 849px;
+  position: absolute;
+  margin: 0 !important;
+  right: -143px;
+  bottom: -235px;
+  object-fit: cover;
+}
+.emirati-gifts {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.card-issuer {
+  border-radius: 100px;
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 24px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.mask-group-icon4 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts4 {
+  width: 191px;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: none;
+}
+.logo4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  z-index: 1;
+}
+.b {
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: Rubik;
+  color: #fff;
+  text-align: left;
+  white-space: nowrap;
+}
+.logo-container,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 12px 24px;
+  background-color: #000;
+  border-radius: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.wrapper:hover {
+  background-color: #333;
+}
+.logo-container {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 32px;
+  color: #000;
+}
+.card-image,
+.gift-card,
+.hero {
+  display: flex;
+  align-items: flex-start;
+}
+.card-image {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 50px;
+  position: relative;
+  gap: 174px;
+}
+.gift-card,
+.hero {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gift-card {
+  width: 600px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 95px 0 0;
+  min-width: 600px;
+  font-size: 24px;
+}
+.hero {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 245px 120px 80px;
+  background-image: url(/public/hero@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  gap: 20px;
+  text-align: left;
+  font-size: 80px;
+  color: #fff;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1725px) {
+  .gift-card,
+  .hero-content {
+    flex: 1;
+  }
+  .hero {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .hero-content {
+    min-width: 100%;
+  }
+  .hero {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .the-perfect-gift {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .emiratigifts4 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .card-image {
+    gap: 87px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .card-image,
+  .gift-card,
+  .hero {
+    box-sizing: border-box;
+  }
+  .gift-card {
+    padding-top: 62px;
+    min-width: 100%;
+  }
+  .hero {
+    padding: 159px 30px 52px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-perfect-gift {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .b,
+  .emiratigifts4 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .logo-container {
+    flex-wrap: wrap;
+  }
+  .card-image,
+  .hero {
+    box-sizing: border-box;
+  }
+  .card-image {
+    gap: 43px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .hero {
+    padding-top: 103px;
+    padding-bottom: 34px;
+  }
+}

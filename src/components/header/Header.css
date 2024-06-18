@@ -1,0 +1,243 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px 20px 100px;
+    background: #FCF9F3;
+    margin: 0 0 0 0;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    height: 40px;
+}
+
+.header-nav {
+    width: 380px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav-mobile{
+    display: none;
+}
+
+.sign-in-button{
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    margin: 0 10px 0 10px;
+    background: #ff7a00;
+    border-radius: 50px;
+    width: fit-content;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    transition: 0.2s ease-in-out;
+
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+    padding: 7px;
+    border-radius: 52px;
+}
+
+.nav-link:hover{
+    background: #ececec;
+}
+
+.header-container section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.get-started-button {
+    display: flex;
+    width: fit-content;
+    padding: 18px 35px 12px 35px;
+    color: #ffffff;
+    font-weight: bold;
+    background: #ff7a00;
+    border: none;
+    border-radius: 50px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.get-started-button:hover {
+    background: #ff7a00;
+}
+
+.header-nav nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 450px;
+}
+
+.header-option-button{
+    font-size: 12px;
+    background: none;
+    border: none;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.header-icons-button{
+    background: none;
+    border: none;
+    display: flex;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.header-option-button:hover{
+    background: #f2f2f2;
+}
+
+.hr-line{
+    width: 1px;
+    height: 40px;
+    border-right: 1px solid #b3b3b3;
+}
+
+.burger-button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.section-header{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 0 0 0 100px;
+}
+
+.icons-section{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.sidebar {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    text-align: center;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    max-width: 200px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    transition: 0.2s ease-in-out;
+}
+
+.sidebar section{
+    display: flex;
+    flex-direction: column;
+}
+
+.close-button{
+    border: none;
+    display: flex;
+    width: fit-content;
+    border-radius: 50px;
+    padding: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.close-button:hover{
+    background: #ededed;
+}
+
+.burger-button:hover{
+    background: #ededed;
+
+}
+
+.esync-logo{
+    max-width: 400px;
+    width: 100%;
+}
+
+@media screen and (max-width: 1500px) {
+    .header-container{
+        padding: 10px 30px 10px 30px;
+    }
+    .section-header {
+        display: none;
+    }
+    .header-nav-mobile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .get-started-button{
+        margin: 0 auto;
+        padding: 12px 25px 12px 25px;
+    }
+    .header-nav{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .header-container{
+        padding: 10px 30px 10px 30px;
+    }
+    .section-header{
+        display: none;
+        background: #e66100;
+    }
+    .header-nav-mobile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .get-started-button{
+        margin: 0 auto;
+        padding: 12px 25px 12px 25px;
+    }
+    .header-nav{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 530px){
+    .esync-logo{
+        width: 120px;
+    }
+    .header-container{
+        padding: 10px 15px 10px 15px;
+    }
+    .sign-in-button{
+        font-size: 0.6rem;
+    }
+}
+
+@media screen and (max-width: 305px){
+    .get-started-button{
+        font-size: 0.6rem;
+    }
+
+}

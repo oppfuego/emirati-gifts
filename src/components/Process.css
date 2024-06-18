@@ -1,0 +1,83 @@
+.refund-process1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.refund-process {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.to-request-a {
+  position: relative;
+  line-height: 135%;
+}
+.process-instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.provide-your-order {
+  position: relative;
+  line-height: 135%;
+}
+.process-instructions1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-customer-support {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.process,
+.process-steps,
+.review {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.review {
+  align-self: stretch;
+}
+.process,
+.process-steps {
+  max-width: 100%;
+}
+.process-steps {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.process {
+  width: 1680px;
+  gap: 32px;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: Archivo;
+}
+@media screen and (max-width: 750px) {
+  .refund-process {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .process {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refund-process {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

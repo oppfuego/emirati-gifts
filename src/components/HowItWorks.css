@@ -1,0 +1,139 @@
+.how-it-works1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.buy-online-add {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 28px;
+  max-width: 100%;
+}
+.button11 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Rubik;
+  color: #fff;
+  text-align: left;
+}
+.button10,
+.description-container,
+.explanation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button10 {
+  cursor: pointer;
+  border: 0.5px solid #000;
+  padding: 11px 23px;
+  background-color: #000;
+  border-radius: 100px;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.button10:hover {
+  background-color: #333;
+  border: 0.5px solid #333;
+  box-sizing: border-box;
+}
+.description-container,
+.explanation {
+  flex-direction: column;
+  max-width: 100%;
+}
+.description-container {
+  gap: 36px;
+}
+.explanation {
+  padding: 0 0 184px;
+  box-sizing: border-box;
+  min-width: 663px;
+  min-height: 404px;
+}
+.undraw-happy-birthday-re-c16u-icon {
+  width: 793px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.how-it-works {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 155px 120px 156px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 80px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1725px) {
+  .explanation,
+  .undraw-happy-birthday-re-c16u-icon {
+    flex: 1;
+  }
+  .how-it-works {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .explanation {
+    min-width: 100%;
+  }
+  .how-it-works {
+    padding: 101px 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .how-it-works1 {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .description-container {
+    gap: 18px;
+  }
+  .how-it-works {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-it-works1 {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .explanation,
+  .how-it-works {
+    padding-bottom: 120px;
+    box-sizing: border-box;
+  }
+  .how-it-works {
+    padding-top: 66px;
+    padding-bottom: 66px;
+  }
+}

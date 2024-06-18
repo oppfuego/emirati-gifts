@@ -1,0 +1,193 @@
+.mask-group-icon4 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts4 {
+  width: 108px;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: none;
+}
+.logo4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 18px;
+  color: #000;
+}
+.emiratigifts-is-a3 {
+  align-self: stretch;
+}
+.emiratigifts-is-a3,
+.live-chat-support3 {
+  position: relative;
+  line-height: 135%;
+}
+.helpemiratigiftscom-support3 {
+  font-weight: 700;
+}
+.adminemiratigiftscom-other3,
+.helpemiratigiftscom-support3 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-content1,
+.footer-support,
+.group-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.footer-content1,
+.footer-support {
+  gap: 32px;
+  max-width: 100%;
+}
+.footer-content1 {
+  width: 404px;
+  gap: 48px;
+}
+.product3 {
+  font-weight: 700;
+}
+.airtime-to-cash3,
+.binance-wallet3,
+.buy-airtime3,
+.crypto-markets3,
+.dogecoin-wallet3,
+.ethereum-wallet3,
+.litecoin-wallet3,
+.product3,
+.sell-bitcoin-in6,
+.sell-bitcoin-in7,
+.tether-usdt-wallet3,
+.tron-wallet3 {
+  position: relative;
+  line-height: 135%;
+}
+.product-list2,
+.product-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.product-parent {
+  gap: 24px;
+}
+.resources4 {
+  font-weight: 700;
+}
+.all-pages3,
+.blog3,
+.career3,
+.check-gift-card3,
+.contact-us8,
+.developers3,
+.gift-card-rates3,
+.highest-gift-card3,
+.how-to-sell3,
+.privacy-policy3,
+.promo-codes3,
+.resources4,
+.support-us3,
+.terms-of-use3 {
+  position: relative;
+  line-height: 135%;
+}
+.resource-list2,
+.resources-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.resources-group {
+  gap: 24px;
+}
+.gift-cards6 {
+  font-weight: 700;
+}
+.amazon-gift-cards3,
+.amex-gift-cards3,
+.apple-gift-cards3,
+.buy-gift-cards3,
+.ebay-gift-cards3,
+.gift-card-to10,
+.gift-card-to11,
+.gift-card-to9,
+.gift-cards6,
+.google-play-gift3,
+.nike-gift-cards3,
+.nordstorm-gift-cards3,
+.razer-gold-gift3,
+.sell-gift-card6,
+.sell-gift-card7,
+.sephora-gift-cards3,
+.steam-gift-cards3,
+.xbox-gift-cards3 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-bottom2,
+.gift-card-list2,
+.gift-cards-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.footer-bottom2,
+.gift-cards-parent {
+  gap: 24px;
+}
+.footer-bottom2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1225px) {
+  .footer-bottom2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .footer-bottom2 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer-bottom2 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .footer-support {
+    gap: 16px;
+  }
+  .footer-content1 {
+    gap: 24px;
+  }
+}

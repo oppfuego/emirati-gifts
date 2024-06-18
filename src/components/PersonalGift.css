@@ -1,0 +1,172 @@
+.lager-2-icon,
+.the-easy-and {
+  position: relative;
+  flex-shrink: 0;
+}
+.the-easy-and {
+  margin: 0;
+  width: 568px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 568px;
+  max-width: 100%;
+}
+.lager-2-icon {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.choose-from-over {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.benefit-list {
+  width: 107px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.lager-2-icon1 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.personalize-with-a {
+  align-self: stretch;
+  height: 66px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.benefit-list1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 80px;
+}
+.lager-2-icon2 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.deliver-via-post {
+  align-self: stretch;
+  height: 66px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.benefit-list2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 80px;
+}
+.lager-2-icon3 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.unhappy-swap-gift {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.benefit-list3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 80px;
+}
+.gift-benefits,
+.personal-gift {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.gift-benefits {
+  width: 620px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  min-width: 620px;
+  text-align: center;
+  font-size: 16px;
+}
+.personal-gift {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 120px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  gap: 20px;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 1725px) {
+  .gift-benefits,
+  .the-easy-and {
+    flex: 1;
+  }
+  .personal-gift {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .gift-benefits {
+    min-width: 100%;
+  }
+  .personal-gift {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .the-easy-and {
+    font-size: 38px;
+    line-height: 42px;
+    min-width: 100%;
+  }
+  .gift-benefits {
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .personal-gift {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-easy-and {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

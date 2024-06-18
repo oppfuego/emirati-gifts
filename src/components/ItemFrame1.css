@@ -1,0 +1,87 @@
+.image-icon1 {
+  align-self: stretch;
+  height: 240px;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.nintendo {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.japanese-multinational-video {
+  align-self: stretch;
+}
+.from-20-to3,
+.japanese-multinational-video {
+  position: relative;
+  line-height: 135%;
+}
+.card-descriptions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 4px;
+  gap: 10px;
+  font-size: 16px;
+}
+.buy3 {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-weight: 700;
+  font-family: Rubik;
+  color: #1c1c1c;
+  text-align: left;
+}
+.item-frame1,
+.view-more-button-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.view-more-button-container {
+  cursor: pointer;
+  border: 1.5px solid #000;
+  padding: 10px 22px;
+  background-color: transparent;
+  width: 80px;
+  border-radius: 100px;
+  box-sizing: border-box;
+  flex-direction: row;
+}
+.view-more-button-container:hover {
+  background-color: rgba(51, 51, 51, 0.09);
+  border: 1.5px solid #333;
+  box-sizing: border-box;
+}
+.item-frame1 {
+  flex-direction: column;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+@media screen and (max-width: 825px) {
+  .nintendo {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nintendo {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .item-frame1 {
+    gap: 16px;
+  }
+}

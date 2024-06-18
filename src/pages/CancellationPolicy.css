@@ -1,0 +1,429 @@
+.cancellation-policy1,
+.please-refer-to2 {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.cancellation-policy1 {
+  line-height: 110%;
+  font-weight: 700;
+}
+.please-refer-to2 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Work Sans";
+}
+.policy-intro {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+.join-700k-customers1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.join-the-thousand1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  white-space: pre-wrap;
+}
+.join-us1 {
+  width: 665px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+  max-width: 100%;
+}
+.button1 {
+  align-self: stretch;
+  height: 46px;
+}
+.button-container1,
+.company {
+  display: flex;
+  align-items: flex-start;
+}
+.button-container1 {
+  width: 166px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 39px 0 0;
+  box-sizing: border-box;
+}
+.company {
+  width: 1680px;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 100%;
+  flex-shrink: 0;
+  gap: 20px;
+}
+.footer-divider1,
+.footer-top1 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-divider1 {
+  width: 1681px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+  flex-shrink: 0;
+}
+.footer-top1 {
+  align-self: stretch;
+  height: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px 70px;
+  gap: 70px;
+  font-size: 32px;
+}
+.mask-group-icon1 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.emiratigifts1 {
+  width: 108px;
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+  display: none;
+}
+.logo1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  font-size: 18px;
+  color: #000;
+}
+.emiratigifts-is-a1 {
+  align-self: stretch;
+}
+.emiratigifts-is-a1,
+.live-chat-support1 {
+  position: relative;
+  line-height: 135%;
+}
+.helpemiratigiftscom-support1 {
+  font-weight: 700;
+}
+.adminemiratigiftscom-other1,
+.helpemiratigiftscom-support1 {
+  position: relative;
+  line-height: 135%;
+}
+.company-info1,
+.helpemiratigiftscom-support-group,
+.support1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.company-info1,
+.support1 {
+  gap: 32px;
+  max-width: 100%;
+}
+.company-info1 {
+  width: 404px;
+  gap: 48px;
+}
+.product1 {
+  font-weight: 700;
+}
+.airtime-to-cash1,
+.binance-wallet1,
+.buy-airtime1,
+.crypto-markets1,
+.dogecoin-wallet1,
+.ethereum-wallet1,
+.litecoin-wallet1,
+.product1,
+.sell-bitcoin-in2,
+.sell-bitcoin-in3,
+.tether-usdt-wallet1,
+.tron-wallet1 {
+  position: relative;
+  line-height: 135%;
+}
+.product-list1,
+.products1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.products1 {
+  gap: 24px;
+}
+.resources2 {
+  font-weight: 700;
+}
+.all-pages1,
+.blog1,
+.career1,
+.check-gift-card1,
+.contact-us5,
+.developers1,
+.gift-card-rates1,
+.highest-gift-card1,
+.how-to-sell1,
+.privacy-policy1,
+.promo-codes1,
+.resources2,
+.support-us1,
+.terms-of-use1 {
+  position: relative;
+  line-height: 135%;
+}
+.resource-list1,
+.resources1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.resources1 {
+  gap: 24px;
+}
+.gift-cards3 {
+  font-weight: 700;
+}
+.amazon-gift-cards1,
+.amex-gift-cards1,
+.apple-gift-cards1,
+.buy-gift-cards1,
+.ebay-gift-cards1,
+.gift-card-to3,
+.gift-card-to4,
+.gift-card-to5,
+.gift-cards3,
+.google-play-gift1,
+.nike-gift-cards1,
+.nordstorm-gift-cards1,
+.razer-gold-gift1,
+.sell-gift-card2,
+.sell-gift-card3,
+.sephora-gift-cards1,
+.steam-gift-cards1,
+.xbox-gift-cards1 {
+  position: relative;
+  line-height: 135%;
+}
+.footer-bottom1,
+.gift-card-list1,
+.gift-cards2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.footer-bottom1,
+.gift-cards2 {
+  gap: 24px;
+}
+.footer-bottom1 {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.bottom-divider-item,
+.bottom-divider1,
+.footer-bottom1 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bottom-divider-item {
+  width: 1681px;
+  position: relative;
+  border-top: 1px solid #1c1c1c;
+}
+.bottom-divider1 {
+  height: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.giftsite-all-rights2 {
+  position: relative;
+  line-height: 135%;
+  font-weight: 600;
+}
+.copyright2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.blogger-icon2,
+.dash-dash-icon2,
+.facebook-icon2,
+.instagram-icon2,
+.paypal-icon2,
+.youtube2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.youtube2 {
+  margin: 0;
+}
+.copyright-social2,
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.copyright-social2 {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.cancellation-policy,
+.footer2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer2 {
+  align-self: stretch;
+  background-color: #fcf9f3;
+  padding: 64px 0;
+  box-sizing: border-box;
+  gap: 63.7px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Rubik;
+}
+.cancellation-policy {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .footer-bottom1 {
+    flex-wrap: wrap;
+  }
+  .footer2 {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .company {
+    flex-wrap: wrap;
+  }
+  .footer-top1 {
+    height: auto;
+  }
+  .copyright-social2,
+  .footer-bottom1 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+  .copyright-social2 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer2 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cancellation-policy1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .join-700k-customers1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .join-us1 {
+    gap: 21px;
+  }
+  .footer-top1 {
+    gap: 35px;
+  }
+  .copyright-social2,
+  .footer-bottom1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .footer2 {
+    gap: 16px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellation-policy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .join-700k-customers1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .footer-top1 {
+    gap: 17px;
+  }
+  .support1 {
+    gap: 16px;
+  }
+  .company-info1 {
+    gap: 24px;
+  }
+}
